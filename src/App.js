@@ -1,22 +1,23 @@
 import React, { Component } from 'react';
+import ListContacts from './ListContacts';
 
 const contacts = [
   {
-    "id": "karen",
-    "name": "Karen Isgrigg",
-    "handle": "karen_isgrigg",
+    "id": "Chander",
+    "name": "Chander Bhanu",
+    "handle": "chanderbhanu096",
     "avatarURL": "http://localhost:5001/karen.jpg"
   },
   {
-    "id": "richard",
-    "name": "Richard Kalehoff",
-    "handle": "richardkalehoff",
+    "id": "Anksuh",
+    "name": "Ankush Kumar",
+    "handle": "ankushnation",
     "avatarURL": "http://localhost:5001/richard.jpg"
   },
   {
-    "id": "tyler",
-    "name": "Tyler McGinnis",
-    "handle": "tylermcginnis",
+    "id": "Bhanu",
+    "name": "Bhanu Rana",
+    "handle": "bhanurana",
     "avatarURL": "http://localhost:5001/tyler.jpg"
   }
  ];
